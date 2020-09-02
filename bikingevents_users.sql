@@ -42,7 +42,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'Stefan','Dybka','sdybka','54bd1bd2a45e258fe2ab5a50b3b2ec223dfd10de30a83bb657b4a01e4ee4bceb','+z9OjAFoubWgFmjNWezffSOPurwXTNu1sIqRiTvcV8U=','sdybka@uncc.edu'),(2,'Josh','Williams','jwill564','af075c1043f8e81b46028885aec314dc055c7c4e738525fed7ea362a8cb1a25f','/BBMA3JkuGnhTiQygvtjVYOtSdoe/zpym3uBNoCTUBU=','jwill564@uncc.edu'),(3,'Alex','Pettengill','apetteng','2dabed85a1f5848c86bb4cc9b1ac7f23fdbac1ce41c3de6e461e82ecf7b61c23','Afw5wLwJAcRt22DsPt0X29aHEfjxkGV9ZU1FRDRBY/o=','apetteng@uncc.edu');
+INSERT INTO `users` VALUES (1,'Stefan','Dybka','sdybka','54bd1bd2a45e258fe2ab5a50b3b2ec223dfd10de30a83bb657b4a01e4ee4bceb','+z9OjAFoubWgFmjNWezffSOPurwXTNu1sIqRiTvcV8U=','sdybka@uncc.edu');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
